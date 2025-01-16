@@ -6,8 +6,7 @@ This is a web-based application dedicated to the Indian Cricket Team's performan
 
 - **Squad Information**: Display detailed information about the players selected for the 2025 Champions Trophy, including their roles.
 - **Gallery**: A collection of images showcasing the team's journey and memorable moments.
-- **Contact Details**: Provides contact information for the Indian Cricket Team and links to their official social media platforms.
-
+- **Contact Detail**s: Provides the contact information of myself if you need to create a web page like this and include links to the official social media platforms of the Indian cricket team.
 ## Installation
 
 ### Prerequisites
